@@ -17,4 +17,7 @@ User plays against the computer.
 
 ## How to Run
 Download the file and run:
+python snake_water_gun.py
 
+## Learning Journey Note
+This project is part of my beginner Python learning journey. More advanced projects coming soon.
